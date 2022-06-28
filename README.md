@@ -1,6 +1,6 @@
 <div>
 <h1>Olá meu nome é Vínicius </h1>
-  <h2>Sou estudante de engenharia de Software <p> e um praticante de KickBoxing 🥋 a minha paixão fora da tecnologia aqui você vai encontrar algumas das minhas praticas e projetos </h2>
+  <p>Sou estudante de engenharia de Software <p> e um praticante de KickBoxing 🥋 a minha paixão fora da tecnologia aqui você vai encontrar algumas das minhas praticas e projetos </p>
   
 </div>
 
