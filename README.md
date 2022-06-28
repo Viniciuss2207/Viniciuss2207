@@ -17,3 +17,6 @@
   
   
 </div><br/>
+
+
+<link rel="stylesheet" href="www.linkedin.com/in/vinicius-tsx-dev">
