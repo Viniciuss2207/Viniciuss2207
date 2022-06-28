@@ -1,6 +1,6 @@
 <div>
-<h1>Olá meu nome é vinicius </h1>
-  
+<h1>Olá meu nome é Vínicius </h1>
+  <h2>Sou estudante de engenharia de Software </h2>
   <h3>Por aqui você vai encontrar algumas das minhas praticas e projetos </h3>
 </div>
 
