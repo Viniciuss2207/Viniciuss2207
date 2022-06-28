@@ -1,7 +1,7 @@
 <div>
 <h1>Olá meu nome é vinicius </h1>
   
-  <h3>Oi</h3>
+  <h3>Por aqui você vai encontrar algumas das minhas praticas e projetos </h3>
 </div>
 
 
