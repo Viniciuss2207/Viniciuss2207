@@ -2,7 +2,7 @@
     <h1><strong>Olá meu nome é <i>Vínicius</i></strong></h1>
       <p>Sou estudante de engenharia de Software 💻 e um praticante de KickBoxing 🥋 a minha paixão fora da tecnologia. E aqui você vai encontrar algumas das minhas praticas e projetos </p>
       
-    </div>
+   
     
     
    <div style="display: column ">
