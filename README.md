@@ -15,7 +15,7 @@
       <img align="center" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
       
       
-    </div><br
+ 
     
     
-
+<p>você tambem pode me encontrar no <a href="www.linkedin.com/in/vinicius-tsx-dev">linkedin</a>
