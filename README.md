@@ -14,8 +14,10 @@
       <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
       <img align="center" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
       
+       
+       <p>você tambem pode me encontrar no <a href="www.linkedin.com/in/vinicius-tsx-dev">linkedin</a>
       
     </div><br
     
     
-<p>você tambem pode me encontrar no <a href="www.linkedin.com/in/vinicius-tsx-dev">linkedin</a>
+
