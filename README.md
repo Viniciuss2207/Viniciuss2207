@@ -18,4 +18,4 @@
  
     
     
-<p>você tambem pode me encontrar no <a href="www.linkedin.com/in/vinicius-tsx-dev">linkedin</a>
+<p>você tambem pode me encontrar no <a href="https://www.linkedin.com/in/vinicius-tsx-dev/">linkedin</a>
