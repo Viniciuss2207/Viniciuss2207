@@ -1,7 +1,7 @@
 <div>
 <h1>Olá meu nome é Vínicius </h1>
   <h2>Sou estudante de engenharia de Software <p> e um praticante de KickBoxing 🥋 a minha paixão fora da tecnologia </h2>
-  <h3>Por aqui você vai encontrar algumas das minhas praticas e projetos </h3>
+  <h2>Por aqui você vai encontrar algumas das minhas praticas e projetos </h2>
 </div>
 
 
@@ -19,7 +19,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
   
-  <h3>Voce tambem pode me encotrar no </h3>
+  
 </div><br/>
 
 
