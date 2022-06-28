@@ -1,4 +1,4 @@
-<div><strong>Olá meu nome é vinicius estudante de Engenharia de Software e praticante de kickboxing nas horas livres 🥋</strong></div>
+<div>Olá meu nome é vinicius estudante de Engenharia de Software e praticante de kickboxing nas horas livres 🥋</div>
 
 
 
