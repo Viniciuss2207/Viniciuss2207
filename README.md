@@ -10,7 +10,7 @@
 - 📚 Cursando Análise e Desenvolvimento de Sistemas e Engenharia de Software 
 - 🚀 Aprimorando meus conhecimentos em JavaScript e React.js
 - 📫 Meu email: viniciussouzasoares2@gmail.com
-<p></p>
+<br></br>
    
     
     
