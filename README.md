@@ -19,3 +19,10 @@
     
     
 <p>você tambem pode me encontrar no <a href="https://www.linkedin.com/in/vinicius-tsx-dev/">linkedin</a>
+
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=r4ulzito&show_icons=true&theme=merko"></img>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4ulzito&layout=compact&theme=merko"></img>
+
+
+
