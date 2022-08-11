@@ -23,6 +23,6 @@
 
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Viniciuss2207&show_icons=true&theme=merko"></img>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rViniciuss2207&layout=compact&theme=merko"></img>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuss2207&layout=compact&theme=merko"></img>
 
 
