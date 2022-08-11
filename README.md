@@ -1,4 +1,4 @@
-<h1 align='center'>Olá amigo! Muito prazer, me chamo Vinicuis :)</h1>
+<h1 align='center'>Olá amigo! Muito prazer, me chamo Vinicius :)</h1>
 
 ### 👋 Sobre mim:
 
