@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Sou um dev apaixonado por tecnologia, atualmente focado no desenvolvimento web front-end.
+    Sou um amante da tecnologia, atualmente focado no desenvolvimento web front-end.
   </em>
 </p>
  
